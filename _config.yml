@@ -4,5 +4,5 @@ email: raeyasalazar@gmail.com
 baseurl: "/portfolio-site/"
 
 collections:
-	design:
-		output: true
+design:
+output: true
