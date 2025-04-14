@@ -1,7 +1,7 @@
 title: Raeya Salazar Portfolio
 name: Raeya Salazar
 email: raeyasalazar@gmail.com
-baseurl: "/portfolio-site"
+baseurl: "/portfolio-site/"
 
 collections:
 design:
