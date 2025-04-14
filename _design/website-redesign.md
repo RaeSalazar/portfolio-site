@@ -1,19 +1,21 @@
 ---
 title: "Website Redesign"
-tools: [Photoshop]
-description: "A typographic poster series exploring contrast, scale, and rhythm."
+tools: [Photoshop, Dreamweaver]
+description: "Developing a Website with the prinicples of Design"
 layout: 
 permalink: 
 ---
 
 ## Project Overview
 
-This poster series was created to explore how typography can communicate emotion and energy through layout.
+This website was created to emulate an online pressence of a brand.
 
 ## Tools & Techniques
 
-- Adobe Photoshop
+- Adobe Photoshop for wireframing
+- Dreamweaver for code
+
 
 ## Outcomes
 
-This project helped develop a stronger sense of visual hierarchy and gave me the opportunity to experiment with type-as-image.
+This project helped develop strong problem solving skills.

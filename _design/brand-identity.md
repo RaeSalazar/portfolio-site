@@ -1,20 +1,21 @@
 ---
 title: "Brand Identity"
 tools: [Illustrator, InDesign]
-description: "A typographic poster series exploring contrast, scale, and rhythm."
+description: "A series of logos exploring a brand in a unique way"
 layout: 
 permalink: 
 ---
 
 ## Project Overview
 
-This poster series was created to explore how typography can communicate emotion and energy through layout.
+This brand identity was created to show how to express brands effectively through the use of color, typography and simple shapes.
 
 ## Tools & Techniques
 
 - Adobe InDesign
-- Adobe Illustrator for texture and blending.
+- Adobe Illustrator
+- Grid system design
 
 ## Outcomes
 
-This project helped develop a stronger sense of visual hierarchy and gave me the opportunity to experiment with type-as-image.
+This project helped develop a stronger sense of building things in a graphical form.
