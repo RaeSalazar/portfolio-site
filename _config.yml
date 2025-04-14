@@ -5,5 +5,5 @@ baseurl: "/portfolio-site/"
 
 collections:
 design:
-output: true
-permalink: /:collection/:path/
+  output: true
+  permalink: /:collection/:path/
