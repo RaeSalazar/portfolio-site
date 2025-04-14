@@ -1,35 +1,19 @@
 ---
 layout: design
-title: "Design Projects"
+title: "design projects"
 ---
-	
-	<div class="design-grid">
-		
+
+<div class="design-grid">
     {% for design in site.design %}
-		
       <div class="design-card">
-		  
         <h2>{{ design.title }}</h2>
-		  
-		  
-        {{% if design.tools %}}
-		  
-		  
+        {% if design.tools %}
           <p><strong>Tools:</strong> {{ design.tools | join: ", " }}</p>
-		  
-		  
-        {{% endif %}}
-		  
-        {{% if design.description %}}
+        {% endif %}
+        {% if design.description %}
           <p>{{ design.description }}</p>
-		  
-		  
-        {{% endif %}}
-		  
-		  
-        <a href="{{ site.baseurl }}/{{ design.url }}">View Project</a>
+        {% endif %}
+        <a href="{{ site.baseurl }}/{{ design.url }}">View Project →</a>
       </div>
-		
-		
     {% endfor %}
   </div>
